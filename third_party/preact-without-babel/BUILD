@@ -22,7 +22,7 @@ closure_js_library(
     name = "app_js",
     srcs = ["index.js"],
     no_closure_library = True,
-    deps = ["//third_party/preact/v10_4_6/externs"],
+    deps = ["//third_party/preact/v10_4_7/externs"],
 )
 
 closure_js_binary(
