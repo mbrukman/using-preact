@@ -2,6 +2,10 @@
 
 How to build applications using Preact with Bazel and the Closure Compiler.
 
+For detailed instructions, see the
+[`third_party/preact-without-babel/`](third_party/preact-without-babel/#readme)
+directory.
+
 ## Contributing
 
 See [`CONTRIBUTING.md`](CONTRIBUTING.md) for details.
