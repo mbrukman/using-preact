@@ -1,0 +1,8 @@
+# Bazel output directories at the top-level of the project:
+# bazel-bin, bazel-out, etc.
+/bazel-*
+
+# Temporary editor files and generated files.
+*.sw?
+*~
+.DS_Store
