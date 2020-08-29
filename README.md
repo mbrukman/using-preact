@@ -1,5 +1,7 @@
 # Preact + Bazel + Closure Compiler
 
+[![Build Status](https://travis-ci.org/mbrukman/preact-bazel-closure.svg?branch=master)](https://travis-ci.org/mbrukman/preact-bazel-closure)
+
 How to build applications using Preact with Bazel and the Closure Compiler.
 
 For detailed instructions, see the
