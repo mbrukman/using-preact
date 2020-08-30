@@ -28,7 +28,7 @@ closure_js_library(
 closure_js_binary(
     name = "app",
     compilation_level = "ADVANCED",
-    dependency_mode = "STRICT",
+    dependency_mode = "PRUNE",
     entry_points = ["third_party/preact-without-babel/index"],
     deps = [":app_js"],
 )
