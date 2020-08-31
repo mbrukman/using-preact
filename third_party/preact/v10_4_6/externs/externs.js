@@ -229,7 +229,7 @@ preact.FunctionComponent.prototype.defaultProps;
  * @extends preact.FunctionComponent<P>
  * @template P
  */
-preact.FunctionalComponent = class { };
+preact.FunctionalComponent;
 
 // interface FunctionalComponent<P = {}> extends FunctionComponent<P> { }
 
