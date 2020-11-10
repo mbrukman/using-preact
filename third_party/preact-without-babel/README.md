@@ -27,7 +27,7 @@ This command actually builds two targets:
 * `:app_html` which creates a new file` app.html` from `index.html` to update
   the JavaScript input from the uncompiled `index.js` to the compiled `app.js`
 
-Then, open `blaze-bin/third_party/preact-wihout-babel/app.html` in your browser,
+Then, open `bazel-bin/third_party/preact-wihout-babel/app.html` in your browser,
 and verify that it works just the same as the uncompiled version above.
 
 ---
