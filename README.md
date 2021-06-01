@@ -1,6 +1,9 @@
 # Using Preact.js
 
-[![Build Status](https://travis-ci.org/mbrukman/using-preactjs.svg?branch=master)](https://travis-ci.org/mbrukman/using-preactjs)
+[![Build Status][github-ci-badge]][github-ci-url]
+
+[github-ci-badge]: https://github.com/mbrukman/using-preactjs/actions/workflows/main.yml/badge.svg
+[github-ci-url]: https://github.com/mbrukman/using-preactjs/actions/workflows/main.yml
 
 How to build applications using Preact.
 
