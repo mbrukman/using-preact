@@ -34,4 +34,4 @@ and verify that it works just the same as the uncompiled version above.
 
 > :horse: Supporting older browsers?  Check out [Preact in ES3](https://github.com/developit/preact-in-es3)
 
-[Preact]: https://git.io/preact
+[Preact]: https://github.com/preactjs/preact
