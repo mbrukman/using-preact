@@ -1,6 +1,9 @@
 # Using Preact
 
-[![Build Status][github-ci-badge]][github-ci-url]
+[![Build Status][using-preact-ci-badge]][using-preact-ci-url]
+
+[using-preact-ci-badge]: https://github.com/mbrukman/using-preact/actions/workflows/main.yml/badge.svg?query=branch%3Amain
+[using-preact-ci-url]: https://github.com/mbrukman/using-preact/actions/workflows/main.yml?query=branch%3Amain
 
 How to build applications using [Preact][preact].
 
@@ -26,8 +29,6 @@ This project is not an official Google project. It is not supported by Google
 and Google specifically disclaims all warranties as to its quality,
 merchantability, or fitness for a particular purpose.
 
-[github-ci-badge]: https://github.com/mbrukman/using-preactjs/actions/workflows/main.yml/badge.svg
-[github-ci-url]: https://github.com/mbrukman/using-preactjs/actions/workflows/main.yml
 [preact]: https://preactjs.com/
 [rules-nodejs-type-errors]: https://github.com/preactjs/preact/issues/758#issuecomment-683881172
 [closure-compiler-typedef-templates]: https://github.com/google/closure-compiler/issues/890
